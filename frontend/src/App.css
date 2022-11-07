@@ -1,0 +1,21 @@
+.assignment-wrapper{
+  border: 2px solid lightgray;
+  padding: 2em;
+  border-radius: 1em;
+  margin-top: 2em;
+}
+
+.assignment-wrapper-title{
+  width: min-content !important;
+  margin-top: -2em !important;
+  background-color: white !important;
+  white-space: nowrap !important;
+  margin-bottom: 1em !important;
+}
+
+.comment-bubble{
+  background-color: #eeeeee;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em 0em;
+}
